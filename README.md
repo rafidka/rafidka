@@ -4,7 +4,6 @@
 - 💞️ Open to collaborating on cool ML projects
 - 📫 I am on LinkedIn ([rafidka](https://www.linkedin.com/in/rafidka/))
 - 🦋 and BlueSky ([rafidka](https://bsky.app/profile/rafidka.bsky.social))
-- 😄 Pronouns: he/him
 
 <!--
 **rafidka/rafidka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
